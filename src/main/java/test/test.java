@@ -10,5 +10,7 @@ public class test {
 
         System.out.println("test22222");
         System.out.println("test33333");
+
+        System.out.println("本地其他分支到远程master分支");
     }
 }

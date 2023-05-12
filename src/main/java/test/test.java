@@ -7,6 +7,6 @@ public class test {
         System.out.println("hello master");
         System.out.println("hello hot-fix");
 
-        System.out.println("testbranch1分支");
+        System.out.println("testbranch1分支1");
     }
 }

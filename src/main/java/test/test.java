@@ -6,5 +6,7 @@ public class test {
         System.out.println("hello git2");
         System.out.println("hello master");
         System.out.println("hello hot-fix");
+
+        System.out.println("new branch");
     }
 }
